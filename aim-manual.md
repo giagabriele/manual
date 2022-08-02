@@ -70,3 +70,7 @@ Compared to before, however, here we have a **New** button that allows us to ins
 In the **Resource Menu** we will find the following page, which shows us the **search filters** at the top, and the **list** of all the Resources at the bottom
 
 ![image-18.png](./image-18.png)
+
+In the **Disease Health Risk Menu** we will find the following page, which shows us the **search filters** at the top, and the **list** of all the Disease Health Risk at the bottom
+
+![image-19.png](./image-19.png)
