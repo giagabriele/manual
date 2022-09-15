@@ -74,3 +74,7 @@ In the **Resource Menu** we will find the following page, which shows us the **s
 In the **Disease Health Risk Menu** we will find the following page, which shows us the **search filters** at the top, and the **list** of all the Disease Health Risk at the bottom
 
 ![image-19.png](./image-19.png)
+
+If in the side menu we go to click **DASHBOARD**, a drop-down menu will open containing four categories of dashbaord that we are now going to see one by one.
+
+
