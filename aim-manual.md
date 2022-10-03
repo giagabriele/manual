@@ -1,5 +1,5 @@
 # AIM Manual
-This is the public homepage where you can log in
+This is the public homepage where you can log in. Only people with credential in MAWLR Local Area Network are allowed to login in AIM web application
 
 ![image.png](./image.png)
 
